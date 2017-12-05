@@ -1,2 +1,2 @@
 # r-Lambert-function
-This
+This is a code for the real r-Lambert function
