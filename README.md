@@ -1,2 +1,2 @@
-# r-Lambert-function
-This is a code for the real r-Lambert function
+# r-Lambert function
+This is a code to calculate the values of the real r-Lambert function
